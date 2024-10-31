@@ -64,3 +64,18 @@ footer{
     padding: 1rem;
 }
 
+.caixa-grafico{
+    margin: 5rem;
+}
+
+.caixa-grafico_texto{
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--cor4) solid 2px;
+}
+
+span{
+    font-weight: bold;
+    color: var(--cor4);
+}
