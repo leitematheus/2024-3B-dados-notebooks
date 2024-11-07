@@ -18,4 +18,3 @@
     grafico.className = 'grafico'
     document.getElementsByTagName('caixa-grafico').appendChild(grafico)
     Plotly.newPlot(grafico, data)
-}
