@@ -24,7 +24,7 @@ async function visualizarInformacoesGerais() {
 
     const paragrafo = document.createElement('p')
     paragrafo.classList.add('caixa-grafico_texto')
-    paragrafo.innerHTML = `Entrevistamos <span>${quantidadeDeVoto} milhão</span> de brasileiros para descobrir quais são os doces mais queridos por todos!`
+    paragrafo.innerHTML = `Entrevistamos <span>${quantidadeDeVoto} milhão</span> de brasileiros para descobrir quais são os notebooks mais favoritos por todos!`
 
     const container = document.getElementById('caixa-grafico')
     container.appendChild(paragrafo)
